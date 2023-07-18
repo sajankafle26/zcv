@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    background: pink;
+    padding: 15px 0;
+}
+    
+.con{
+    max-width: 1000px;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+
+}
+
+header{
+    padding: 20px 0;
+}
+
+.tc{text-align: center;}
